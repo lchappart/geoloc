@@ -78,7 +78,7 @@
             }
         }).addTo(map)
         for (let i = 0; i < coordinates.length; i++) {
-            src = '/projet_fullstack/uploads/'
+            src = '/geoloc/uploads/'
             if (data.restaurants[i].image === '')
             {
                 src += 'default.jpg'
