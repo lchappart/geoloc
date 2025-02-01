@@ -1,3 +1,3 @@
 <?php
 
-$UPLOAD_DIRECTORY = '/projet_fullstack/uploads/';
+$UPLOAD_DIRECTORY = '/geoloc/uploads/';
