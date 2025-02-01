@@ -31,4 +31,4 @@ En cas d'erreur à cause de l'api, vous pourrez avoir besoin de relancer la comm
 Voilà, vous avez installé le projet ! Vous pouvez vous connecter avec le compte admin et le mot de passe admin
 
 ## Débuggage
-En cas d'erreurs au niveau de l'ajout d'images, vérifiez que le nom du dossier ou se trouve la racine s'appelle bien `projet_fullstack` et que il n'y a pas un dossier dans un dossier
+En cas d'erreurs au niveau de l'ajout d'images, vérifiez que le nom du dossier ou se trouve la racine s'appelle bien `geoloc` et que il n'y a pas un dossier dans un dossier
