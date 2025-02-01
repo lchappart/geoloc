@@ -8,7 +8,7 @@ Léo Chappart
 Les différentes étapes pour installer le projet sont les suivantes :
 - Exécutez la commande suivante dans votre terminal dans le dossier où vous souhaitez cloner le repo:
 ```bash  
-git clone https://github.com/lchappart/projet_fullstack.git 
+git clone https://github.com/lchappart/geoloc.git 
 ```
 - Ensuite, exécutez la commande :
 ````bash
